@@ -1,0 +1,21 @@
+body {
+	color: #5cb85c;
+	text-align: center;
+	background-image: url(http://img.sccnn.com/bimg/334/1386.jpg);
+}
+
+ol {
+	color: #5cb85c;
+	text-align: left;
+}
+
+.container {
+ 	animation-name: bounceIn;
+	animation-duration: 8s;
+ }
+
+.addedClass {
+	background-image: url(https://m.popkey.co/ce539b/ReQaJ_s-200x150.gif?c=popkey-web&p=popkey&i=mondaymotivation-reactions&l=search&f=.gif);
+}
+
+
